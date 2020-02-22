@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-javaflow-1066591.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/itext-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-annotation-processors-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-chart-customizers-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-chart-themes-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-custom-visualization-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-functions-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-javaflow-6.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Alonso/Downloads/librerias/jasperreports-metadata-6.11.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
